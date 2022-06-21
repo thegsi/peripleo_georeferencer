@@ -5,8 +5,7 @@
     {
       "name": "KTOP Georeferencer",
       "format": "LINKED_PLACES",
-      "src": "./data/ktop_polygon.json"
-      
+      "src": "./data/ktop_point.lp.json"
     }
   ]
 }
